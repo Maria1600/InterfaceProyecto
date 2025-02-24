@@ -1,0 +1,20 @@
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe.config
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\bin\Debug\Proyectillo.pdb
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.AssemblyReference.cache
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Form1.resources
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Properties.Resources.resources
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.GenerateResource.cache
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.CoreCompileInputs.cache
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe
+C:\Users\MARIA GARRIDO\source\repos\Proyectillo\Proyectillo\obj\Debug\Proyectillo.pdb
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.pdb
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe.config
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.pdb
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Form1.resources
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.CoreCompileInputs.cache
