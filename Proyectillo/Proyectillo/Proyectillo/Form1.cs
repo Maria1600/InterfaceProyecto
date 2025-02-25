@@ -323,6 +323,22 @@ namespace Proyectillo
         {
             MessageBox.Show("¡¡Hemos recibido correctamente su propuesta!!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String usuario = user.Text;
+            String password = pass.Text;
+
+            if ((usuario == "admin") && (password == "admin"))
+            {
+                groupBox3.Visible = false;
+                //Mas cosas panel de administracion
+            }
+            else
+            {
+                credenciales.Text = "Credenciales incorrectas";
+            }
+        }
     }
         
 }
