@@ -306,7 +306,22 @@ namespace Proyectillo
 
         private void button1_Click(object sender, EventArgs e)
         {
+            tabControl1.SelectTab(1);
+        }
 
+        private void botonVerCole_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(2);
+        }
+
+        private void botonVerPuntoInteres_Click(object sender, EventArgs e)
+        {
+            tabControl1.SelectTab(4);
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("¡¡Hemos recibido correctamente su propuesta!!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
         
