@@ -22,6 +22,13 @@ namespace Proyectillo
             tabControl1.DrawMode = TabDrawMode.OwnerDrawFixed;
             tabControl1.DrawItem += new DrawItemEventHandler(tabControl1_DrawItem);
             tabControl1.Paint += new PaintEventHandler(tabControl1_Paint);
+            admin1.Visible = false;
+            prof1.Visible = false;
+            prof2.Visible = false;
+            prof3.Visible = false;
+            prof4.Visible = false;
+            prof5.Visible = false;
+            prof6.Visible = false;
 
         }
 
@@ -62,7 +69,7 @@ namespace Proyectillo
             else
             {
                 // Dibujar texto normal en las demás pestañas
-                TextRenderer.DrawText(e.Graphics, tabPage.Text, tabPage.Font, tabRect, tabPage.ForeColor, TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter);
+                TextRenderer.DrawText(e.Graphics, tabPage.Text, tabPage.Font, tabRect, Color.White, TextFormatFlags.HorizontalCenter | TextFormatFlags.VerticalCenter);
             }
         }
 
@@ -134,6 +141,170 @@ namespace Proyectillo
         }
 
         private void label19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            String usuario = user.Text;
+            String password = pass.Text;
+
+            if ( (usuario == "admin") && (password == "admin") ) {
+                iniciaSesion1.Visible = false;
+                admin1.Visible = true;
+                prof1.Visible = true;
+                prof2.Visible = true;
+                prof3.Visible = true;
+                prof4.Visible = true;
+                prof5.Visible = true;
+                prof6.Visible = true;
+
+            }
+            else
+            {
+                credenciales.Text = "Credenciales incorrectas";
+            }
+
+        }
+
+        private void label20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cambiosProf_Click(object sender, EventArgs e)
+        {
+            String cargo, name;
+            cargo = Cargo.Text;
+            name = nombreprof.Text;
+
+            int id = int.Parse(numProf.Text);
+
+            if (id == 1)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name1.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo1.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name1.Text = name;
+                    Cargo1.Text = cargo;
+                }
+            }
+            else if (id == 2)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name2.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo2.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name2.Text = name;
+                    Cargo2.Text = cargo;
+                }
+            }
+            else if (id == 3)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name3.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo3.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name3.Text = name;
+                    Cargo3.Text = cargo;
+                }
+            }
+            else if (id == 4)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name4.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo4.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name4.Text = name;
+                    Cargo4.Text = cargo;
+                }
+            }
+            else if (id == 5)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name5.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo5.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name5.Text = name;
+                    Cargo5.Text = cargo;
+                }
+            }
+            else if (id == 6)
+            {
+                if (string.IsNullOrEmpty(cargo) && !(string.IsNullOrEmpty(name)))
+                {
+                    Name6.Text = name;
+                }
+                else if (string.IsNullOrEmpty(name) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Cargo6.Text = cargo;
+                }
+                else if (!(string.IsNullOrEmpty(name)) && !(string.IsNullOrEmpty(cargo)))
+                {
+                    Name6.Text = name;
+                    Cargo6.Text = cargo;
+                }
+            }
+        }
+
+        private void label11_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label16_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }

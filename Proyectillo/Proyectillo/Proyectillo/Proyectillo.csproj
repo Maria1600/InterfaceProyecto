@@ -93,6 +93,8 @@
     <None Include="Resources\Mirador.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Sugerencia-removebg-preview.png" />
+    <None Include="Resources\Sugerencia.jpg" />
     <None Include="Resources\luisP.jpg" />
     <None Include="Resources\ana.jpg" />
     <None Include="Resources\Laura.jpg" />
