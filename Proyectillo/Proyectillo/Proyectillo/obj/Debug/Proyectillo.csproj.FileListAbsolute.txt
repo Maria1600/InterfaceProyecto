@@ -28,3 +28,23 @@ C:\Users\usuario\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\o
 C:\Users\usuario\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.CoreCompileInputs.cache
 C:\Users\usuario\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe
 C:\Users\usuario\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.pdb
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe.config
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.pdb
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\PdfiumViewer.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\PdfiumViewer.xml
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.AssemblyReference.cache
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Form1.resources
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Properties.Resources.resources
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.GenerateResource.cache
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.CoreCompileInputs.cache
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyecti.765DF0C7.Up2Date
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.pdb
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Resources\Normas.pdf
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.ResolveComReference.cache

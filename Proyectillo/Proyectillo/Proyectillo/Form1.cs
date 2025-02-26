@@ -1,10 +1,16 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using PdfiumViewer;
+using Proyectillo.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Drawing2D;
+using System.IO;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -32,7 +38,8 @@ namespace Proyectillo
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+
+    private void Form1_Load(object sender, EventArgs e)
         {
             linkLabel1.Text = "Pulsa aqui";
             linkLabel1.Links.Add(0, linkLabel1.Text.Length, "https://cescristorey.com/");
@@ -338,6 +345,11 @@ namespace Proyectillo
             {
                 credenciales.Text = "Credenciales incorrectas";
             }
+        }
+
+        private void panel7_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
         
