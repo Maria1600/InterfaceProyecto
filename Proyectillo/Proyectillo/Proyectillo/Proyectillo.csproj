@@ -12,8 +12,9 @@
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <PublishUrl>publish\</PublishUrl>
-    <Install>true</Install>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\maria\OneDrive\Desktop\CRISTOINFOAPP\</PublishUrl>
+    <Install>false</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
     <UpdateMode>Foreground</UpdateMode>
@@ -22,10 +23,10 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -48,6 +49,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1D8B4B923363B3D9937B5A9A47A98B8EED1217AB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Proyectillo_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="PdfiumViewer, Version=2.13.0.0, Culture=neutral, PublicKeyToken=91e4789cfb0609e0, processorArchitecture=MSIL">
       <HintPath>..\packages\PdfiumViewer.2.13.0.0\lib\net20\PdfiumViewer.dll</HintPath>
@@ -102,9 +115,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Proyectillo_TemporaryKey.pfx" />
     <None Include="Resources\Cole.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\CristoInfo_ Manual de administrador.pdf" />
     <None Include="Resources\Normas.pdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -117,12 +132,18 @@
     <None Include="Resources\Mirador.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\Plano3.png" />
+    <None Include="Resources\Plano2.png" />
+    <None Include="Resources\Plano1.png" />
+    <None Include="Resources\super.png" />
+    <None Include="Resources\losdos.png" />
     <None Include="Resources\Sugerencia-removebg-preview.png" />
     <None Include="Resources\Sugerencia.jpg" />
     <None Include="Resources\luisP.jpg" />
     <None Include="Resources\ana.jpg" />
     <None Include="Resources\Laura.jpg" />
     <None Include="Resources\ester.jpg" />
+    <None Include="Resources\libreria.png" />
     <Content Include="Resources\logitoMejo.png" />
     <None Include="Resources\logitoMejor.png" />
   </ItemGroup>

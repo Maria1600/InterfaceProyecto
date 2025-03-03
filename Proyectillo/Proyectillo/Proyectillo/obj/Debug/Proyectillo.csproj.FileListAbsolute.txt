@@ -48,3 +48,23 @@ C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyect
 C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Interop.AcroPDFLib.dll
 C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\AxInterop.AcroPDFLib.dll
 C:\Users\Maria Garrido\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.ResolveComReference.cache
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Resources\Normas.pdf
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe.config
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.pdb
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\PdfiumViewer.dll
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\PdfiumViewer.xml
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.ResolveComReference.cache
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Form1.resources
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyecti.765DF0C7.Up2Date
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.pdb
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.exe.manifest
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\bin\Debug\Proyectillo.application
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.exe.manifest
+C:\Users\maria\OneDrive\Desktop\InterfaceProyecto\Proyectillo\Proyectillo\Proyectillo\obj\Debug\Proyectillo.application
